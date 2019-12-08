@@ -3,13 +3,6 @@
 How to Use Gatsby to Create PWA Ecommerce Sites.
 
 ---
-I'm Portia Burton
-
-![](https://res.cloudinary.com/blockchain-side-hustle/image/upload/c_scale,e_grayscale,h_333/v1554233429/portia_burton_vcl3wf.jpg)
-
-##### Principal Developer at [Cecil Digital Agency](https://cecildigitalagency.com/)
-
----
 
 What is <b>PWA</b>?
 
